@@ -1,0 +1,55 @@
+{
+  "courses":[
+    {
+      "title": "Auswahl und Anpassung von IT-Diensten",
+      "lectureTitle": "CMMI for Acquisition - Grundlage",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Herkunft",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184851751",
+            "url_presentation": "https://vimeo.com/184851749"
+          }
+        },
+        {
+          "title": "Strukturmodell",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184851884",
+            "url_presentation": "https://vimeo.com/184851899"
+          }
+        },
+        {
+          "title": "Prozessgebiete",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184852032",
+            "url_presentation": "https://vimeo.com/184852025"
+          }
+        },
+        {
+          "title": "Fähigkeits- und Reifegrade",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184852111",
+            "url_presentation": "https://vimeo.com/184852106"
+          }
+        },
+        {
+          "title": "Begutachtungsprozesse",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184852202",
+            "url_presentation": "https://vimeo.com/184852198"
+          }
+        },
+        {
+          "title": "CMMI User Stories",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184852272",
+            "url_presentation": "https://vimeo.com/184852267"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "courses":[
+    {
+      "title": "Basics of Business Process Modeling",
+      "lectureTitle": "BPMN Advanced Topics",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Loops and Multi-Instantiations",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155830798",
+            "url_presentation": "https://vimeo.com/155830796"
+          }
+        },
+        {
+          "title": "Transactions and Compensations",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155830799",
+            "url_presentation": "https://vimeo.com/155830797"
+          }
+        },
+        {
+          "title": "Types of BPMN Process Diagrams",
+          "videos": {
+            "url_teacher": "https://vimeo.com/156070323",
+            "url_presentation": "https://vimeo.com/156070319"
+          }
+        },
+        {
+          "title": "Collaborations and Choreographies",
+          "videos": {
+            "url_teacher": "https://vimeo.com/156070320",
+            "url_presentation": "https://vimeo.com/156070318"
+          }
+        },
+        {
+          "title": "Private and Public Process Orchestrations",
+          "videos": {
+            "url_teacher": "https://vimeo.com/156070931",
+            "url_presentation": "https://vimeo.com/156070930"
+          }
+        },
+        {
+          "title": "Conversations",
+          "videos": {
+            "url_teacher": "https://vimeo.com/156070929",
+            "url_presentation": "https://vimeo.com/156070928"
+          }
+        },
+        {
+          "title": "The OMG Certification Program for Experts in BPM",
+          "videos": {
+            "url_teacher": "https://vimeo.com/156070927",
+            "url_presentation": "https://vimeo.com/156070926"
+          }
+        },
+        {
+          "title": "Descriptive vs. Analytical Modeling",
+          "videos": {
+            "url_teacher": "https://vimeo.com/156266840",
+            "url_presentation": "https://vimeo.com/156266846"
+          }
+        },
+        {
+          "title": "Further Refinements",
+          "videos": {
+            "url_teacher": "https://vimeo.com/156266843",
+            "url_presentation": "https://vimeo.com/156266848"
+          }
+        },
+        {
+          "title": "Level 2 Modeling Style",
+          "videos": {
+            "url_teacher": "https://vimeo.com/156266844",
+            "url_presentation": "https://vimeo.com/156266851"
+          }
+        },
+        {
+          "title": "Executable Modeling - Level 3",
+          "videos": {
+            "url_teacher": "https://vimeo.com/156267652",
+            "url_presentation": "https://vimeo.com/156267653"
+          }
+        }
+      ]
+    }
+  ]
+}

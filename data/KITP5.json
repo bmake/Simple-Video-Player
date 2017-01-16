@@ -1,0 +1,40 @@
+{
+    "courses": [
+        {
+            "title": "Kooperation in IT-Projekten",
+            "lectureTitle": "Modellierung von Vokabularen und Regeln",
+            "lecturer": "Prof. Dr. Vera G. Meister",
+            "lecturerMail": "vera.meister@fh-brandenburg.de",
+            "chapters": [
+                {
+                    "title": "Einführung und Quellen",
+                    "videos": {
+                        "url_teacher": "https://vimeo.com/145615176",
+                        "url_presentation": "https://vimeo.com/145615175"
+                    }
+                },
+                {
+                    "title": "SBVR-Glossareinträge",
+                    "videos": {
+                        "url_teacher": "https://vimeo.com/145615590",
+                        "url_presentation": "https://vimeo.com/145615589"
+                    }
+                },
+                {
+                    "title": "SBVR-Strukturdiagramme",
+                    "videos": {
+                        "url_teacher": "https://vimeo.com/145615596",
+                        "url_presentation": "https://vimeo.com/145615597"
+                    }
+                },
+                {
+                    "title": "SBVR-Regelanweisungen",
+                    "videos": {
+                        "url_teacher": "https://vimeo.com/145615720",
+                        "url_presentation": "https://vimeo.com/145615719"
+                    }
+                }
+            ]
+        }
+    ]
+}

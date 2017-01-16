@@ -1,0 +1,48 @@
+{
+  "courses":[
+    {
+      "title": "Kooperation in IT-Projekten",
+      "lectureTitle": "Modellierung von Entscheidungen mit DMN",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Einführung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/144378618",
+            "url_presentation": "https://vimeo.com/144378616"
+          }
+        },
+        {
+          "title": "Kontext für Entscheidungen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/144409542",
+            "url_presentation": "https://vimeo.com/144409541"
+          }
+        },
+        {
+          "title": "DMN Basiselemente",
+          "videos": {
+            "url_teacher": "https://vimeo.com/144514052",
+            "url_presentation": "https://vimeo.com/144514051"
+          }
+        },
+        {
+          "title": "Requirement Links",
+          "videos": {
+            "url_teacher": "https://vimeo.com/144514966",
+            "url_presentation": "https://vimeo.com/144514967"
+          }
+        },
+        {
+          "title": "Entscheidungslogik",
+          "videos": {
+            "url_teacher": "https://vimeo.com/144515017",
+            "url_presentation": "https://vimeo.com/144515016"
+          }
+        }
+      ]
+    }
+  ]
+}

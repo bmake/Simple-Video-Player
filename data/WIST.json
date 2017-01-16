@@ -1,0 +1,20 @@
+{
+  "courses":[
+    {
+      "title": "THB",
+      "lectureTitle": "Wirtschaftsinformatik studieren?!",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Die ganze Wahrheit über das WI-Studium an der THB",
+          "videos": {
+            "url_teacher": "https://vimeo.com/190844420",
+            "url_presentation": "https://vimeo.com/190844402"
+          }
+        }
+      ]
+    }
+  ]
+}

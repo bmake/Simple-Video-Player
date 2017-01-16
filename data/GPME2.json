@@ -1,0 +1,90 @@
+{
+  "courses":[
+    {
+      "title": "Basics of Business Process Modeling",
+      "lectureTitle": "BPMN Specification of Flow Objects",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Specification of Events",
+          "videos": {
+            "url_teacher": "https://vimeo.com/154315052",
+            "url_presentation": "https://vimeo.com/154315049"
+          }
+        },
+        {
+          "title": "Specification of Start and End Events",
+          "videos": {
+            "url_teacher": "https://vimeo.com/154316842",
+            "url_presentation": "https://vimeo.com/154316841"
+          }
+        },
+        {
+          "title": "Catching and Throwing Intermediate Events",
+          "videos": {
+            "url_teacher": "https://vimeo.com/154317735",
+            "url_presentation": "https://vimeo.com/154317734"
+          }
+        },
+        {
+          "title": "Specification of Tasks and Activities",
+          "videos": {
+            "url_teacher": "https://vimeo.com/154998700",
+            "url_presentation": "https://vimeo.com/154998699"
+          }
+        },
+        {
+          "title": "Send and Receive Tasks",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155000028",
+            "url_presentation": "https://vimeo.com/155000024"
+          }
+        },
+        {
+          "title": "Other Task Types",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155002290",
+            "url_presentation": "https://vimeo.com/155002288"
+          }
+        },
+        {
+          "title": "Multi-Instantiated Activities",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155004929",
+            "url_presentation": "https://vimeo.com/155004931"
+          }
+        },
+        {
+          "title": "Types of Gateways: Recap",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155003823",
+            "url_presentation": "https://vimeo.com/155003821"
+          }
+        },
+        {
+          "title": "Event-based Gateways",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155121977",
+            "url_presentation": "https://vimeo.com/155121976"
+          }
+        },
+        {
+          "title": "Inclusive Gateways",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155123781",
+            "url_presentation": "https://vimeo.com/155123780"
+          }
+        },
+        {
+          "title": "Complex Gateways",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155125213",
+            "url_presentation": "https://vimeo.com/155125212"
+          }
+        }
+      ]
+    }
+  ]
+}

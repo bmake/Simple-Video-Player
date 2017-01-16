@@ -1,0 +1,55 @@
+{
+  "courses":[
+    {
+      "title": "Auswahl und Anpassung von IT-Diensten",
+      "lectureTitle": "IT Projekt Frameworks",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Was ist ein Projekt?",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184657285",
+            "url_presentation": "https://vimeo.com/184657853"
+          }
+        },
+        {
+          "title": "Warum sollte man Frameworks nutzen?",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184659908",
+            "url_presentation": "https://vimeo.com/184659901"
+          }
+        },
+        {
+          "title": "Projektbezogene Frameworks im IT-Management - Überblick",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184661284",
+            "url_presentation": "https://vimeo.com/184661282"
+          }
+        },
+        {
+          "title": "Welches Framework ist geeignet?",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184661312",
+            "url_presentation": "https://vimeo.com/184661307"
+          }
+        },
+        {
+          "title": "Warum CMMI-ACQ",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184661324",
+            "url_presentation": "https://vimeo.com/184661327"
+          }
+        },
+        {
+          "title": "Tools für das Projektmanagement",
+          "videos": {
+            "url_teacher": "https://vimeo.com/184661343",
+            "url_presentation": "https://vimeo.com/184661344"
+          }
+        }
+      ]
+    }
+  ]
+}

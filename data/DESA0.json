@@ -1,0 +1,41 @@
+{
+  "courses":[
+    {
+      "title": "Entwicklung semantischer Anwendungen",
+      "lectureTitle": "Abschlusspräsentation EduGraph/StudySearch",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Einführung und Anwendungsfälle - Kevin Schuster",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155108678",
+            "url_presentation": "https://vimeo.com/155108677"
+          }
+        },
+        {
+          "title": "Implementierung - Jonas Jetschni",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155108670",
+            "url_presentation": "https://vimeo.com/155108669"
+          }
+        },
+        {
+          "title": "WebApp Front End - Danny Pfeiffer",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155108665",
+            "url_presentation": "https://vimeo.com/155108664"
+          }
+        },
+        {
+          "title": "Entwicklung der WebApp - Julian Fastnacht",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155108668",
+            "url_presentation": "https://vimeo.com/155108666"
+          }
+        }
+      ]
+    }
+  ]
+}

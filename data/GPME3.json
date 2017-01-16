@@ -1,0 +1,83 @@
+{
+  "courses":[
+    {
+      "title": "Basics of Business Process Modeling",
+      "lectureTitle": "BPMN Exception Handling",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Boundary Intermediate Events",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155126032",
+            "url_presentation": "https://vimeo.com/155126031"
+          }
+        },
+        {
+          "title": "Event Subprocesses",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155127135",
+            "url_presentation": "https://vimeo.com/155127133"
+          }
+        },
+        {
+          "title": "Exception Handling",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155509653",
+            "url_presentation": "https://vimeo.com/155509652"
+          }
+        },
+        {
+          "title": "Internal Business Exception, User Action and Fault",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155512632",
+            "url_presentation": "https://vimeo.com/155512634"
+          }
+        },
+        {
+          "title": "Timeout",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155510633",
+            "url_presentation": "https://vimeo.com/155510626"
+          }
+        },
+        {
+          "title": "Unsolicited External and Solicited Response Exception",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155512337",
+            "url_presentation": "https://vimeo.com/155512335"
+          }
+        },
+        {
+          "title": "Throw-Catch Pattern",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155512339",
+            "url_presentation": "https://vimeo.com/155512333"
+          }
+        },
+        {
+          "title": "Error and Escalation",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155830788",
+            "url_presentation": "https://vimeo.com/155830781"
+          }
+        },
+        {
+          "title": "Message and Signal",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155830792",
+            "url_presentation": "https://vimeo.com/155830783"
+          }
+        },
+        {
+          "title": "Exception Propagation Patterns",
+          "videos": {
+            "url_teacher": "https://vimeo.com/155830793",
+            "url_presentation": "https://vimeo.com/155830786"
+          }
+        }
+      ]
+    }
+  ]
+}

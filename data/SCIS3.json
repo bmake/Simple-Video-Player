@@ -1,0 +1,62 @@
+{
+  "courses":[
+    {
+      "title": "Auswahl und Anpassung von IT-Diensten",
+      "lectureTitle": "CMMI Ausgewählte Prozessgebiete 1",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Beschaffungsgegenstände & Initialfragen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187343120",
+            "url_presentation": "https://vimeo.com/187343114"
+          }
+        },
+        {
+          "title": "Wesentliche Bezeichnungen zwischen den Prozessgebieten",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187343245",
+            "url_presentation": "https://vimeo.com/187343239"
+          }
+        },
+        {
+          "title": "ARD: Acquisition Requirements Development",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187349969",
+            "url_presentation": "https://vimeo.com/187343416"
+          }
+        },
+        {
+          "title": "REQM: Requirements Management",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187343491",
+            "url_presentation": "https://vimeo.com/187343496"
+          }
+        },
+        {
+          "title": "SSAD: Solicitation and Supplier Agreement Development & SG1: Prepare for SSAD",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187343583",
+            "url_presentation": "https://vimeo.com/187343597"
+          }
+        },
+        {
+          "title": "SG2: Select Suppliers",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187343718",
+            "url_presentation": "https://vimeo.com/187343727"
+          }
+        },
+        {
+          "title": "SG3: Establish Supplier Agreement",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187350279",
+            "url_presentation": "https://vimeo.com/187350128"
+          }
+        }
+      ]
+    }
+  ]
+}

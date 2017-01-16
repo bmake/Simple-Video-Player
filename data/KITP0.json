@@ -1,0 +1,28 @@
+{
+  "courses":[
+    {
+      "title": "Kooperation in IT-Projekten",
+      "lectureTitle": "Einführung",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Intro",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141558786",
+            "url_presentation": "https://vimeo.com/141558784"
+          }
+        },
+        {
+          "title": "Syllabus",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141558785",
+            "url_presentation": "https://vimeo.com/141558787"
+          }
+        }
+
+      ]
+    }
+  ]
+}

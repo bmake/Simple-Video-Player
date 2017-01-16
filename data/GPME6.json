@@ -1,0 +1,96 @@
+{
+  "courses":[
+    {
+      "title": "Basics of Business Process Modeling",
+      "lectureTitle": "Introduction to BPMN 2.0",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "The University of Applied Sciences in Brandenburg",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146013693",
+            "url_presentation": "https://vimeo.com/146013694"
+          }
+        },
+        {
+          "title": "BPMN - A short Introduction",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146013716",
+            "url_presentation": "https://vimeo.com/146013715"
+          }
+        },
+        {
+          "title": "Sources and Literature",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146013732",
+            "url_presentation": "https://vimeo.com/146013733"
+          }
+        },
+        {
+          "title": "Basic Elements of BPMN",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146013740",
+            "url_presentation": "https://vimeo.com/146013739"
+          }
+        },
+        "title": "Flow Objects - Part 2",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146937601",
+            "url_presentation": "https://vimeo.com/146937602"
+          }
+        },
+        {
+          "title": "Participants",
+          "videos": {
+            "url_teacher": "",
+            "url_presentation": "https://vimeo.com/146794947"
+          }
+        },
+        {
+          "title": "Data in Processes",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146794944",
+            "url_presentation": ""
+          }
+        },
+        {
+          "title": "Connecting Objects",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146795065",
+            "url_presentation": "https://vimeo.com/146795066"
+          }
+        },
+        {
+          "title": "Artifacts",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146937535",
+            "url_presentation": "https://vimeo.com/146937532"
+          }
+        },
+        {
+          "title": "Simple Processes",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146795296",
+            "url_presentation": "https://vimeo.com/146795297"
+          }
+        },
+        {
+          "title": "Branched Processes",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146931840",
+            "url_presentation": "https://vimeo.com/146931841"
+          }
+        },
+        {
+          "title": "Further Aspects in Process Models",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146931790",
+            "url_presentation": "https://vimeo.com/146931791"
+          }
+        }
+      ]
+    }
+  ]
+}

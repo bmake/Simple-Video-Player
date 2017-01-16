@@ -1,0 +1,69 @@
+{
+  "courses":[
+    {
+      "title": "Kooperation in IT-Projekten",
+      "lectureTitle": "Modellierung von Geschäftsprozessen mit BPMN",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Einführung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141765454",
+            "url_presentation": "https://vimeo.com/141765452"
+          }
+        },
+        {
+          "title": "Flussobjekte",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141766538",
+            "url_presentation": "https://vimeo.com/141766539"
+          }
+        },
+        {
+          "title": "Teilnehmer und verbindende Objekte",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141767968",
+            "url_presentation": "https://vimeo.com/141767969"
+          }
+        },
+        {
+          "title": "Artefakte und Datenobjekte",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141769978",
+            "url_presentation": "https://vimeo.com/141769979"
+          }
+        },
+        {
+          "title": "Einfache und verzweigte Prozesse",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141795974",
+            "url_presentation": "https://vimeo.com/141795975"
+          }
+        },
+        {
+          "title": "Bruce Silver's Level 1 Method - Intro",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141798752",
+            "url_presentation": "https://vimeo.com/141798751"
+          }
+        },
+        {
+          "title": "Bruce Silver's Level 1 Method - Advanced",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141802359",
+            "url_presentation": "https://vimeo.com/141802358"
+          }
+        },
+        {
+          "title": "Bruce Silver's Level 1 Style",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141804804",
+            "url_presentation": "https://vimeo.com/141804803"
+          }
+        }
+      ]
+    }
+  ]
+}

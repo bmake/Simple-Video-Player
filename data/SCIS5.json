@@ -1,0 +1,76 @@
+{
+  "courses":[
+    {
+      "title": "Auswahl und Anpassung von IT-Diensten",
+      "lectureTitle": "CMMI Ausgewählte Prozessgebiete 2",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Recap: Beziehungen zwischen den Prozessgebieten",
+          "videos": {
+            "url_teacher": "https://vimeo.com/190842480",
+            "url_presentation": "https://vimeo.com/190842614"
+          }
+        },
+        {
+          "title": "PP: Project Planning",
+          "videos": {
+            "url_teacher": "https://vimeo.com/190842855",
+            "url_presentation": "https://vimeo.com/190842649"
+          }
+        },
+        {
+          "title": "CM: Configuration Management",
+          "videos": {
+            "url_teacher": "https://vimeo.com/190843718",
+            "url_presentation": "https://vimeo.com/190843641"
+          }
+        },
+        {
+          "title": "SG1: Establish Baselines",
+          "videos": {
+            "url_teacher": "https://vimeo.com/190843853",
+            "url_presentation": "https://vimeo.com/190843778"
+          }
+        },
+        {
+          "title": "SG2: Track and Control Changes",
+          "videos": {
+            "url_teacher": "https://vimeo.com/190843984",
+            "url_presentation": "https://vimeo.com/190843947"
+          }
+        },
+        {
+          "title": "SG3: Establish Integrity",
+          "videos": {
+            "url_teacher": "https://vimeo.com/190844079",
+            "url_presentation": "https://vimeo.com/190844019"
+          }
+        },
+        {
+          "title": "ATM: Acquisition Technical Management",
+          "videos": {
+            "url_teacher": "https://vimeo.com/190844174",
+            "url_presentation": "https://vimeo.com/190844136"
+          }
+        },
+        {
+          "title": "SG1: Evaluate Technical Management",
+          "videos": {
+            "url_teacher": "https://vimeo.com/190844227",
+            "url_presentation": "https://vimeo.com/190844497"
+          }
+        },
+        {
+          "title": "SG2: Perform Interface Management",
+          "videos": {
+            "url_teacher": "https://vimeo.com/190844346",
+            "url_presentation": "https://vimeo.com/190844290"
+          }
+        }
+      ]
+    }
+  ]
+}

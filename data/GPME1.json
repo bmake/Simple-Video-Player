@@ -1,0 +1,83 @@
+{
+  "courses":[
+    {
+      "title": "Basics of Business Process Modeling",
+      "lectureTitle": "BPMN Method and Style - Level 1",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Process Control: Recap and Details",
+          "videos": {
+            "url_teacher": "https://vimeo.com/146935399",
+            "url_presentation": "https://vimeo.com/146935398"
+          }
+        },
+        {
+          "title": "BPMN Level 1 Method - Intro",
+          "videos": {
+            "url_teacher": "https://vimeo.com/148357306",
+            "url_presentation": "https://vimeo.com/148357303"
+          }
+        },
+        {
+          "title": "Step 1: Define the Process Scope",
+          "videos": {
+            "url_teacher": "https://vimeo.com/148357304",
+            "url_presentation": "https://vimeo.com/148357305"
+          }
+        },
+        {
+          "title": "Step 2: Create Top-Level Diagram for the Happy Path",
+          "videos": {
+            "url_teacher": "https://vimeo.com/154209095",
+            "url_presentation": "https://vimeo.com/154209094"
+          }
+        },
+        {
+          "title": "Step 3: Add Top-Level Exception Paths",
+          "videos": {
+            "url_teacher": "https://vimeo.com/154210381",
+            "url_presentation": "https://vimeo.com/154210380"
+          }
+        },
+        {
+          "title": "Step 4: Expand Subprocesses to Show Detail at Child Level",
+          "videos": {
+            "url_teacher": "https://vimeo.com/154211253",
+            "url_presentation": "https://vimeo.com/154211252"
+          }
+        },
+        {
+          "title": "Step 5: Add Intermediate Message Flows to External Pools",
+          "videos": {
+            "url_teacher": "https://vimeo.com/154211899",
+            "url_presentation": "https://vimeo.com/154211898"
+          }
+        },
+        {
+          "title": "Additional Step: Add Data Objects",
+          "videos": {
+            "url_teacher": "https://vimeo.com/154212456",
+            "url_presentation": "https://vimeo.com/154212455"
+          }
+        },
+        {
+          "title": "Style Principles of Composition",
+          "videos": {
+            "url_teacher": "https://vimeo.com/154312891",
+            "url_presentation": "https://vimeo.com/154312888"
+          }
+        },
+        {
+          "title": "Elementary Rules of Usage",
+          "videos": {
+            "url_teacher": "https://vimeo.com/154314226",
+            "url_presentation": "https://vimeo.com/154314228"
+          }
+        }
+      ]
+    }
+  ]
+}

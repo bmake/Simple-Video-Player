@@ -1,0 +1,48 @@
+{
+  "courses":[
+    {
+      "title": "Auswahl und Anpassung von IT-Diensten",
+      "lectureTitle": "Die Auswahlmethode AHP",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Kurzbeschreibung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187947600",
+            "url_presentation": "https://vimeo.com/187947597"
+          }
+        },
+        {
+          "title": "AHP Tutorial",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187947640",
+            "url_presentation": "https://vimeo.com/187947641"
+          }
+        },
+        {
+          "title": "AHP Beispiele",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187947670",
+            "url_presentation": "https://vimeo.com/187947671"
+          }
+        },
+        {
+          "title": "Warum AHP anwenden?",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187947713",
+            "url_presentation": "https://vimeo.com/187947714"
+          }
+        },
+        {
+          "title": "AHP Quellen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/187947757",
+            "url_presentation": "https://vimeo.com/187947822"
+          }
+        }
+      ]
+    }
+  ]
+}

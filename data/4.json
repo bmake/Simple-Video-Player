@@ -1,0 +1,48 @@
+{
+  "courses":[
+    {
+      "title": "Kooperation in IT-Projekten",
+      "lectureTitle": "Modellierung von Strukturen und Relationen",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Grundbegriffe der Wissensmodellierung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/144517815",
+            "url_presentation": "https://vimeo.com/144517816"
+          }
+        },
+        {
+          "title": "Wissensdomänen und Zugänglichkeit",
+          "videos": {
+            "url_teacher": "https://vimeo.com/144610546",
+            "url_presentation": "https://vimeo.com/144610545"
+          }
+        },
+        {
+          "title": "Elemente der Wissensmodellierung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/144610553",
+            "url_presentation": "https://vimeo.com/144610552"
+          }
+        },
+        {
+          "title": "Ausbaustufen semantischer Netze",
+          "videos": {
+            "url_teacher": "https://vimeo.com/144610570",
+            "url_presentation": "https://vimeo.com/144610569"
+          }
+        },
+        {
+          "title": "Spezifikation von Anforderungen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/144610653",
+            "url_presentation": "https://vimeo.com/144610654"
+          }
+        }
+      ]
+    }
+  ]
+}

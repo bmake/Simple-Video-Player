@@ -1,0 +1,62 @@
+{
+  "courses":[
+    {
+      "title": "Kooperation in IT-Projekten",
+      "lectureTitle": "Modellierung von Wissensarbeit",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Einführung, Quellen und Anwendungsfälle",
+          "videos": {
+            "url_teacher": "https://vimeo.com/188958046",
+            "url_presentation": "https://vimeo.com/188958044"
+          }
+        },
+        {
+          "title": "CMMN-Elemente zur Planung der Fallbearbeitung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/188958092",
+            "url_presentation": "https://vimeo.com/188958095"
+          }
+        },
+        {
+          "title": "Weitere CMMN-Elemente",
+          "videos": {
+            "url_teacher": "https://vimeo.com/188958128",
+            "url_presentation": "https://vimeo.com/188958129"
+          }
+        },
+        {
+          "title": "Benutzeroberfläche eines CM-Tools: Case UI",
+          "videos": {
+            "url_teacher": "https://vimeo.com/188958209",
+            "url_presentation": "https://vimeo.com/188958208"
+          }
+        },
+        {
+          "title": "Beispielmodell: Schadenfall bei einer Versicherung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/188965495",
+            "url_presentation": "https://vimeo.com/188965492"
+          }
+        },
+        {
+          "title": "Fallbeschreibung am Beispielmodell",
+          "videos": {
+            "url_teacher": "https://vimeo.com/188965570",
+            "url_presentation": "https://vimeo.com/188965561"
+          }
+        },
+        {
+          "title": "Tool-Support für CMMN",
+          "videos": {
+            "url_teacher": "https://vimeo.com/188965591",
+            "url_presentation": "https://vimeo.com/188965592"
+          }
+        }
+      ]
+    }
+  ]
+}

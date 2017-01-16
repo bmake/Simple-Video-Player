@@ -1,0 +1,55 @@
+{
+  "courses":[
+    {
+      "title": "Kooperation in IT-Projekten",
+      "lectureTitle": "Modellierung von Wissensarbeit mit CMMN",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Einführung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141823875",
+            "url_presentation": "https://vimeo.com/141823878"
+          }
+        },
+        {
+          "title": "Basiselemente",
+          "videos": {
+            "url_teacher": "https://vimeo.com/141827459",
+            "url_presentation": "https://vimeo.com/141827460"
+          }
+        },
+        {
+          "title": "Weitere Elemente",
+          "videos": {
+            "url_teacher": "https://vimeo.com/142900298",
+            "url_presentation": "https://vimeo.com/142900297"
+          }
+        },
+        {
+          "title": "Benutzeroberfläche",
+          "videos": {
+            "url_teacher": "https://vimeo.com/142902259",
+            "url_presentation": "https://vimeo.com/142902260"
+          }
+        },
+        {
+          "title": "Fallbeschreibung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/142903671",
+            "url_presentation": "https://vimeo.com/142903670"
+          }
+        },
+        {
+          "title": "Tool-Support",
+          "videos": {
+            "url_teacher": "https://vimeo.com/142895387",
+            "url_presentation": "https://vimeo.com/142895388"
+          }
+        }
+      ]
+    }
+  ]
+}

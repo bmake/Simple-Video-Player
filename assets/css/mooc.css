@@ -1,0 +1,34 @@
+video[style] {
+   background: none !important;
+   border:0;
+}
+
+.mooc-videoplayer > .mdl-card__supporting-text{
+  width: 100%;
+
+}
+
+
+.mooc-lecture-lecturer{
+
+  overflow: auto
+}
+
+.mooc-lecture-lecturer .fhb-logo{
+  float: left
+}
+
+
+.mooc-lecture-lecturer img{
+  height: 100px;
+  display:block;
+}
+
+.mooc-lecturer--contact{
+  float:left;
+  margin-top:23px
+}
+
+.mooc-lecturer--contact a{
+  color: rgba(0,0,0,.54);
+}
