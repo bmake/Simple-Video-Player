@@ -1,0 +1,48 @@
+{
+  "courses":[
+    {
+      "title": "Wirtschaftsinformatik I - Digitalisierung in Unternehmen und Organisationen",
+      "lectureTitle": "V3 - eRechnung und ZUGFeRD",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Rechnungsprozess: Varianten des IST-Zustands",
+          "videos": {
+            "url_teacher": "https://vimeo.com/231553984",
+            "url_presentation": "https://vimeo.com/231554118"
+          }
+        },
+        {
+          "title": "Vollständig digitaler Rechnungsprozess - Varianten",
+          "videos": {
+            "url_teacher": "https://vimeo.com/231554278",
+            "url_presentation": "https://vimeo.com/231554435"
+          }
+        },
+        {
+          "title": "Standardisierungsprojekt ZUGFeRD",
+          "videos": {
+            "url_teacher": "https://vimeo.com/231554578",
+            "url_presentation": "https://vimeo.com/231554774"
+          }
+        },
+        {
+          "title": "XML-Datenstruktur einer eRechnung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/231554949",
+            "url_presentation": "https://vimeo.com/231555194"
+          }
+        },
+        {
+          "title": "Vorgaben und Umsetzungstools",
+          "videos": {
+            "url_teacher": "https://vimeo.com/231555451",
+            "url_presentation": "https://vimeo.com/231555559"
+          }
+        }
+      ]
+    }
+  ]
+}

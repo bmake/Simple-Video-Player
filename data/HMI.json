@@ -1,0 +1,20 @@
+{
+  "courses":[
+    {
+      "title": "Human and Machine and Intelligence",
+      "lectureTitle": "On the Relevance of Knowledge Graphs in Enterprises and Organizations",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Human and Machine and Intelligence",
+          "videos": {
+            "url_teacher": "https://vimeo.com/241838689",
+            "url_presentation": "https://vimeo.com/241838581"
+          }
+        }
+      ]
+    }
+  ]
+}

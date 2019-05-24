@@ -1,0 +1,76 @@
+{
+  "courses":[
+    {
+      "title": "Angewandte Wissensmodellierung",
+      "lectureTitle": "Modellierung von Strukturen und Relationen",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Elemente und Systeme der Wissensmodellierung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/219707907",
+            "url_presentation": "https://vimeo.com/219707630"
+          }
+        },
+        {
+          "title": "Assoziative Netze und Themennetze",
+          "videos": {
+            "url_teacher": "https://vimeo.com/219708267",
+            "url_presentation": "https://vimeo.com/219708343"
+          }
+        },
+        {
+          "title": "Faktennetze und Ontologien",
+          "videos": {
+            "url_teacher": "https://vimeo.com/219708142",
+            "url_presentation": "https://vimeo.com/219708009"
+          }
+        },
+        {
+          "title": "Spezifikationen und Modellierungsanforderungen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/219708554",
+            "url_presentation": "https://vimeo.com/219708606"
+          }
+        },
+        {
+          "title": "Das RDF-Datenmodell",
+          "videos": {
+            "url_teacher": "https://vimeo.com/219708399",
+            "url_presentation": "https://vimeo.com/219708483"
+          }
+        },
+        {
+          "title": "Anwendungsfall Datenintegration",
+          "videos": {
+            "url_teacher": "https://vimeo.com/219708761",
+            "url_presentation": "https://vimeo.com/219708655"
+          }
+        },
+        {
+          "title": "Disambiguierung von Entitäten",
+          "videos": {
+            "url_teacher": "https://vimeo.com/219708926",
+            "url_presentation": "https://vimeo.com/219709191"
+          }
+        },
+        {
+          "title": "Graph-Serialisierung mit RDF-Turtle",
+          "videos": {
+            "url_teacher": "https://vimeo.com/219709321",
+            "url_presentation": "https://vimeo.com/219709077"
+          }
+        },
+        {
+          "title": "Typisierung von Entitäten",
+          "videos": {
+            "url_teacher": "https://vimeo.com/219709432",
+            "url_presentation": "https://vimeo.com/219709488"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+﻿{
+  "courses":[
+    {
+      "title": "Wirtschaftsinformatik I - Digitalisierung in Unternehmen und Organisationen",
+      "lectureTitle": "V4 - Anwendung und Auswertung digitaler Regeln",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Anwendungsfälle fachliche Regeln",
+          "videos": {
+            "url_teacher": "https://vimeo.com/232653189",
+            "url_presentation": "https://vimeo.com/232652944"
+          }
+        },
+        {
+          "title": "Technische Umsetzung von Regeln",
+          "videos": {
+            "url_teacher": "https://vimeo.com/232653965",
+            "url_presentation": "https://vimeo.com/232653691"
+          }
+        },
+        {
+          "title": "DMN-Entscheidungstabelle Rabatt",
+          "videos": {
+            "url_teacher": "https://vimeo.com/232654294",
+            "url_presentation": "https://vimeo.com/232654165"
+          }
+        },
+        {
+          "title": "Technische Umsetzung mit Signavio",
+          "videos": {
+            "url_teacher": "https://vimeo.com/232654603",
+            "url_presentation": "https://vimeo.com/232654420"
+          }
+        },
+        {
+          "title": "Technische Umsetzung mit Camunda",
+          "videos": {
+            "url_teacher": "https://vimeo.com/232655047",
+            "url_presentation": "https://vimeo.com/232654824"
+          }
+        },
+        {
+          "title": "Vergleich von Signavio und Camunda",
+          "videos": {
+            "url_teacher": "https://vimeo.com/232655506",
+            "url_presentation": "https://vimeo.com/232655429"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "courses":[
+    {
+      "title": "Social Network Analysis",
+      "lectureTitle": "Theory and Applications",
+      "lecturer": "Dr. Nina Rizun",
+      "lecturerMail": "nina.rizun@zie.pg.gda.pl",
+
+      "chapters": [
+        {
+          "title": "Introduction",
+          "videos": {
+            "url_teacher": "https://vimeo.com/295856626",
+            "url_presentation": "https://vimeo.com/295856652"
+          }
+        },
+        {
+          "title": "Networks in the Real World",
+          "videos": {
+            "url_teacher": "https://vimeo.com/295858833",
+            "url_presentation": "https://vimeo.com/295857606"
+          }
+        },
+        {
+          "title": "Information Networks",
+          "videos": {
+            "url_teacher": "https://vimeo.com/295864126",
+            "url_presentation": "https://vimeo.com/295861394"
+          }
+        },
+        {
+          "title": "Basic Concepts of Network Theory",
+          "videos": {
+            "url_teacher": "https://vimeo.com/295866614",
+            "url_presentation": "https://vimeo.com/295865462"
+          }
+        },
+        {
+          "title": "Centrality in Social Networks",
+          "videos": {
+            "url_teacher": "https://vimeo.com/295869740",
+            "url_presentation": "https://vimeo.com/295868281"
+          }
+        }
+      ]
+    }
+  ]
+}

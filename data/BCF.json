@@ -1,0 +1,76 @@
+{
+  "courses":[
+    {
+      "title": "Wirtschaftsinformatik I - Digitalisierung in Unternehmen und Organisationen",
+      "lectureTitle": "Blockchain - Studentische Präsentationen",
+      "lecturer": "Marcel Cikus, B.Sc. und Prof. Dr. Vera G. Meister",
+      "lecturerMail": "cikus@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Einleitung und Methode des Problem Based Learning",
+          "videos": {
+            "url_teacher": "https://vimeo.com/332501178",
+            "url_presentation": "https://vimeo.com/332503881"
+          }
+        },
+		{
+          "title": "Was ist Blockchain? Eigenschaften - Jennifer Axt",
+          "videos": {
+            "url_teacher": "httphttps://vimeo.com/325479173",
+            "url_presentation": "https://vimeo.com/325479203"
+          }
+        },
+        {
+          "title": "Vorteile der Blockchain - Lina Ruppert",
+          "videos": {
+            "url_teacher": "https://vimeo.com/325479414",
+            "url_presentation": "https://vimeo.com/325479453"
+          }
+        },
+        {
+          "title": "Nachteile der Blockchain - Yihao Chen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/325479296",
+            "url_presentation": "https://vimeo.com/325479255"
+          }
+        },
+        {
+          "title": "Flexibilität und Transparenz - Lisa Gessner",
+          "videos": {
+            "url_teacher": "https://vimeo.com/325479593",
+            "url_presentation": "https://vimeo.com/325479554"
+          }
+        },
+        {
+          "title": "Sicherheit und Authentizität - Franziska Buttkus",
+          "videos": {
+            "url_teacher": "https://vimeo.com/332498844",
+            "url_presentation": "https://vimeo.com/325479520"
+          }
+        },
+        {
+          "title": "Sicherheit und Kryptographie - Lisa-Marie Kadasch",
+          "videos": {
+            "url_teacher": "https://vimeo.com/325479482",
+            "url_presentation": "https://vimeo.com/332631953"
+          }
+        },
+        {
+          "title": "Rechtliche Aspekte - Maria Dieckmann",
+          "videos": {
+            "url_teacher": "https://vimeo.com/325482881",
+            "url_presentation": "https://vimeo.com/325482851"
+          }
+        },
+		{
+          "title": "Kosten und Einsparungen - Niklas Zessin",
+          "videos": {
+            "url_teacher": "https://vimeo.com/325479337",
+            "url_presentation": "https://vimeo.com/325479384"
+          }
+        }
+      ]
+    }
+  ]
+}

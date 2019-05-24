@@ -1,0 +1,48 @@
+{
+  "courses":[
+    {
+      "title": "Wirtschaftsinformatik I - Digitalisierung in Unternehmen und Organisationen",
+      "lectureTitle": "V2 - Digitale Formulare und Workflows",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Formulare und ihr Digitalisierungsgrad",
+          "videos": {
+            "url_teacher": "https://vimeo.com/231552610",
+            "url_presentation": "https://vimeo.com/231552445"
+          }
+        },
+        {
+          "title": "Workflows und ihr Digitalisierungsgrad",
+          "videos": {
+            "url_teacher": "https://vimeo.com/231552874",
+            "url_presentation": "https://vimeo.com/231553031"
+          }
+        },
+        {
+          "title": "Portfolio Digitale Hochschule",
+          "videos": {
+            "url_teacher": "https://vimeo.com/231553167",
+            "url_presentation": "https://vimeo.com/231553353"
+          }
+        },
+        {
+          "title": "Anwendungsfall Notenverbuchung Hochschule",
+          "videos": {
+            "url_teacher": "https://vimeo.com/231553563",
+            "url_presentation": "https://vimeo.com/231553663"
+          }
+        },
+        {
+          "title": "Anwendungsfall Digitale Reisekostenabrechnung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/231553765",
+            "url_presentation": "https://vimeo.com/231553885"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "courses":[
+    {
+      "title": "Angewandte Wissensmodellierung",
+      "lectureTitle": "Modellierung von Vokabularen und Thesauri",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@fh-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Recap: Angewandte Wissensmodellierung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/217858314",
+            "url_presentation": "https://vimeo.com/217858105"
+          }
+        },
+        {
+          "title": "Grundbegriffe der Wissensmodellierung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/217858712",
+            "url_presentation": "https://vimeo.com/217858650"
+          }
+        },
+        {
+          "title": "Wissensdomänen und Zugänglichkeit",
+          "videos": {
+            "url_teacher": "https://vimeo.com/217859638",
+            "url_presentation": "https://vimeo.com/217859836"
+          }
+        },
+        {
+          "title": "Elemente der Wissensmodellierung",
+          "videos": {
+            "url_teacher": "https://vimeo.com/217859957",
+            "url_presentation": "https://vimeo.com/217859869"
+          }
+        },
+        {
+          "title": "SKOS Einführung und Quellen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/217860095",
+            "url_presentation": "https://vimeo.com/217860170"
+          }
+        },
+        {
+          "title": "SKOS Keywords für Klassen und Zuordnungen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/217860237",
+            "url_presentation": "https://vimeo.com/217860263"
+          }
+        },
+        {
+          "title": "SKOS Keywords für Attribute",
+          "videos": {
+            "url_teacher": "https://vimeo.com/217860392",
+            "url_presentation": "https://vimeo.com/217860421"
+          }
+        },
+        {
+          "title": "SKOS Keywords für semantische Relationen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/217860729",
+            "url_presentation": "https://vimeo.com/217994867"
+          }
+        },
+        {
+          "title": "Modellierungstools",
+          "videos": {
+            "url_teacher": "https://vimeo.com/217860582",
+            "url_presentation": "https://vimeo.com/217860618"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "courses":[
+    {
+      "title": "Grundlagen der Prozessmodelierung",
+      "lectureTitle": "Einführung in die Prozessmodellierung",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Sichten auf Prozesse",
+          "videos": {
+            "url_teacher": "https://vimeo.com/210905333",
+            "url_presentation": "https://vimeo.com/210905211"
+          }
+        },
+        {
+          "title": "Modellierungsanlässe",
+          "videos": {
+            "url_teacher": "https://vimeo.com/210905458",
+            "url_presentation": "https://vimeo.com/210905508"
+          }
+        },
+        {
+          "title": "Modellierungsentscheidungen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/210905580",
+            "url_presentation": "https://vimeo.com/210905714"
+          }
+        },
+        {
+          "title": "Proprietäre Notationen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/210905841",
+            "url_presentation": "https://vimeo.com/210905914"
+          }
+        },
+        {
+          "title": "Standardnotationen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/210905982",
+            "url_presentation": "https://vimeo.com/210906131"
+          }
+        },
+        {
+          "title": "Modellierungswerkzeuge",
+          "videos": {
+            "url_teacher": "https://vimeo.com/210906254",
+            "url_presentation": "https://vimeo.com/210906339"
+          }
+        }
+      ]
+    }
+  ]
+}

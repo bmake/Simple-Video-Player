@@ -136,15 +136,26 @@ function getValuesFromVimeo($obj){
 
     $thumb = $obj->video->thumbs->$size;
 
+    if(strstr($_SERVER['HTTP_USER_AGENT'],'iPhone') || strstr($_SERVER['HTTP_USER_AGENT'],'iPad')) {
+        $video = array(
+            "url" => "$url",
+            "url_hd" => $url_hd,
+            "poster" => $thumb,
+            "width" => $width,
+            "height" => $height,
+            "duration" => $duration
+        );
+    } else {
+        $video = array_merge(
+            array("sd" => $url,
+                ($url_hd == null ? array() : array('hd' => $url_hd)),
+                "poster" => $thumb,
+                "width" => $width,
+                "height" => $height,
+                "duration" => $duration)
+        );
+    }
 
-    $video = array(
-      "url" => "$url",
-      "url_hd" => $url_hd,
-      "poster" => $thumb,
-      "width" => $width,
-      "height" => $height,
-      "duration" => $duration
-    );
 
     if(phpversion() <= 5.4){
       $json = str_replace('\\/', '/', json_encode($video));

@@ -1,0 +1,55 @@
+{
+  "courses":[
+    {
+      "title": "Wirtschaftsinformatik I - Digitalisierung in Unternehmen und Organisationen",
+      "lectureTitle": "Big Data und Internet of Things",
+      "lecturer": "Marcel Cikus, B.Sc. und Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Anwendungsfälle",
+          "videos": {
+            "url_teacher": "https://vimeo.com/296378569",
+            "url_presentation": "https://vimeo.com/296378119"
+          }
+        },
+        {
+          "title": "Grundbegriffe",
+          "videos": {
+            "url_teacher": "https://vimeo.com/296379429",
+            "url_presentation": "https://vimeo.com/296378972"
+          }
+        },
+        {
+          "title": "Gartner Hype Cycle",
+          "videos": {
+            "url_teacher": "https://vimeo.com/296381294",
+            "url_presentation": "https://vimeo.com/296381078"
+          }
+        },
+        {
+          "title": "Daten und Datenquellen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/296380237",
+            "url_presentation": "https://vimeo.com/296380001"
+          }
+        },
+        {
+          "title": "Verfahren",
+          "videos": {
+            "url_teacher": "https://vimeo.com/296380759",
+            "url_presentation": "https://vimeo.com/296380445"
+          }
+        },
+        {
+          "title": "Werkzeuge",
+          "videos": {
+            "url_teacher": "https://vimeo.com/299328065",
+            "url_presentation": "https://vimeo.com/299327927"
+          }
+        }
+      ]
+    }
+  ]
+}

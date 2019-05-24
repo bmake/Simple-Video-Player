@@ -1,0 +1,20 @@
+{
+  "courses":[
+    {
+      "title": "Mensch und Maschine und Intelligenz",
+      "lectureTitle": "Über die Bedeutung von Wissensgraphen in Unternehmen und Organisationen",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Mensch und Maschine und Intelligenz",
+          "videos": {
+            "url_teacher": "https://vimeo.com/241833934",
+            "url_presentation": "https://vimeo.com/241833757"
+          }
+        }
+      ]
+    }
+  ]
+}

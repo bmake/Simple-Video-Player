@@ -1,0 +1,41 @@
+﻿{
+  "courses":[
+    {
+      "title": "Auswahl und Anpassung von IT-Diensten",
+      "lectureTitle": "Operationalisierung von Specific Practices",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Fallstudie BFV AG Intro - Anschaffung eines CRM-Systems",
+          "videos": {
+            "url_teacher": "https://vimeo.com/233107673",
+            "url_presentation": "https://vimeo.com/233103415"
+          }
+        },
+        {
+          "title": "Leitfragen für die Operationalisierung von Specific Practices",
+          "videos": {
+            "url_teacher": "https://vimeo.com/233108880",
+            "url_presentation": "https://vimeo.com/233108505"
+          }
+        },
+        {
+          "title": "Erhebung von Kundenanforderungen nach CMMI-ACQ ARD",
+          "videos": {
+            "url_teacher": "https://vimeo.com/233109663",
+            "url_presentation": "https://vimeo.com/233109211"
+          }
+        },
+        {
+          "title": "Identifikation potenzieller Lieferanten nach CMMI-ACQ SSAD",
+          "videos": {
+            "url_teacher": "https://vimeo.com/233110714",
+            "url_presentation": "https://vimeo.com/233110205"
+          }
+        }
+      ]
+    }
+  ]
+}

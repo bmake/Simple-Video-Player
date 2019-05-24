@@ -1,0 +1,69 @@
+{
+  "courses":[
+    {
+      "title": "Modeling and Implementation of Business Rules",
+      "lectureTitle": "with Decision Model and Notation (DMN 1.1)",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Use cases for rule-based business decisions",
+          "videos": {
+            "url_teacher": "https://vimeo.com/263502141",
+            "url_presentation": "https://vimeo.com/263502170"
+          }
+        },
+        {
+          "title": "Alternatives for technical implementation of business rules",
+          "videos": {
+            "url_teacher": "https://vimeo.com/263502335",
+            "url_presentation": "https://vimeo.com/263502300"
+          }
+        },
+        {
+          "title": "The OMG standard specification DMN 1.1",
+          "videos": {
+            "url_teacher": "https://vimeo.com/263502449",
+            "url_presentation": "https://vimeo.com/263502405"
+          }
+        },
+        {
+          "title": "Basic modeling example: Discount decision",
+          "videos": {
+            "url_teacher": "https://vimeo.com/263502487",
+            "url_presentation": "https://vimeo.com/263502506"
+          }
+        },
+        {
+          "title": "DMN Decision Requirement Diagrams",
+          "videos": {
+            "url_teacher": "https://vimeo.com/263502598",
+            "url_presentation": "https://vimeo.com/263502594"
+          }
+        },
+        {
+          "title": "DMN decision logic and syntax",
+          "videos": {
+            "url_teacher": "https://vimeo.com/263502687",
+            "url_presentation": "https://vimeo.com/263502658"
+          }
+        },
+        {
+          "title": "Tool-based implementation of DMN decision tables",
+          "videos": {
+            "url_teacher": "https://vimeo.com/263502793",
+            "url_presentation": "https://vimeo.com/263502777"
+          }
+        },
+        {
+          "title": "Demo: Camunda DMN Simulator",
+          "videos": {
+            "url_teacher": "https://vimeo.com/263502882",
+            "url_presentation": "https://vimeo.com/263502871"
+          }
+        }
+      ]
+    }
+  ]
+}

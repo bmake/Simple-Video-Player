@@ -1,0 +1,62 @@
+{
+  "courses":[
+    {
+      "title": "Text Data Mining",
+      "lectureTitle": "Theory and Methods",
+      "lecturer": "Dr. Nina Rizun",
+      "lecturerMail": "Nina.Rizun@zie.pg.gda.pl",
+
+      "chapters": [
+        {
+          "title": "Introduction to Text Mining",
+          "videos": {
+            "url_teacher": "https://vimeo.com/241156245",
+            "url_presentation": "https://vimeo.com/241156128"
+          }
+        },
+        {
+          "title": "Methods and Techniques for Text Processing",
+          "videos": {
+            "url_teacher": "https://vimeo.com/241157230",
+            "url_presentation": "https://vimeo.com/241156961"
+          }
+        },
+        {
+          "title": "Stemming and Lemmatization",
+          "videos": {
+            "url_teacher": "https://vimeo.com/241158047",
+            "url_presentation": "https://vimeo.com/242552313"
+          }
+        },
+        {
+          "title": "Term Weighting and the Vector Space Model",
+          "videos": {
+            "url_teacher": "https://vimeo.com/241540763",
+            "url_presentation": "https://vimeo.com/241535306"
+          }
+        },
+        {
+          "title": "Measuring the Text Similarity: Cosine Distance",
+          "videos": {
+            "url_teacher": "https://vimeo.com/241154719",
+            "url_presentation": "https://vimeo.com/241154460"
+          }
+        },
+        {
+          "title": "Measuring the Text Similarity: Latent Semantic Analysis",
+          "videos": {
+            "url_teacher": "https://vimeo.com/241154957",
+            "url_presentation": "https://vimeo.com/241154835"
+          }
+        },
+        {
+          "title": "Measuring the Text Similarity: LSA-based Similarity Search",
+          "videos": {
+            "url_teacher": "https://vimeo.com/241155805",
+            "url_presentation": "https://vimeo.com/241156049"
+          }
+        }
+      ]
+    }
+  ]
+}

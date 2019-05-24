@@ -1,0 +1,55 @@
+{
+  "courses":[
+    {
+      "title": "Wirtschaftsinformatik I - Digitalisierung in Unternehmen und Organisationen",
+      "lectureTitle": "Agiles IT-Projektmanagement, insbes. SCRUM",
+      "lecturer": "Prof. Dr. Vera G. Meister",
+      "lecturerMail": "vera.meister@th-brandenburg.de",
+
+      "chapters": [
+        {
+          "title": "Motivation für Agiles IT-Projektmanagement",
+          "videos": {
+            "url_teacher": "https://vimeo.com/293164850",
+            "url_presentation": "https://vimeo.com/293165215"
+          }
+        },
+        {
+          "title": "Einführung in SCRUM",
+          "videos": {
+            "url_teacher": "https://vimeo.com/293165620",
+            "url_presentation": "https://vimeo.com/293166054"
+          }
+        },
+        {
+          "title": "SCRUM Artefakte",
+          "videos": {
+            "url_teacher": "https://vimeo.com/293166459",
+            "url_presentation": "https://vimeo.com/293166892"
+          }
+        },
+        {
+          "title": "SCRUM Team und Rollen",
+          "videos": {
+            "url_teacher": "https://vimeo.com/293167346",
+            "url_presentation": "https://vimeo.com/293167664"
+          }
+        },
+        {
+          "title": "SCRUM Meetings",
+          "videos": {
+            "url_teacher": "https://vimeo.com/293167880",
+            "url_presentation": "https://vimeo.com/293168135"
+          }
+        },
+        {
+          "title": "Fazit Agiles IT-Projektmanagement",
+          "videos": {
+            "url_teacher": "https://vimeo.com/293168397",
+            "url_presentation": "https://vimeo.com/293168653"
+          }
+        }
+      ]
+    }
+  ]
+}
