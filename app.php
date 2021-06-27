@@ -99,6 +99,11 @@ function getValuesFromVimeo($obj){
 
     // Deprecated
     // $url = $obj->request->files->h264->sd->url;
+	usort($obj->request->files->progressive, function($a, $b) { 
+	    return $a->profile > $b->profile ? -1 : 1; //Compare the scores
+	});
+ 
+ 	//$arrProgressiveLength = count($obj->request->files->progressive);
     $url = $obj->request->files->progressive[0]->url;
 
     /* Deprecated
@@ -112,6 +117,7 @@ function getValuesFromVimeo($obj){
       $height = $obj->request->files->h264->sd->height;
       $width = $obj->request->files->h264->sd->width;
     }*/
+	
     if($obj->video->allow_hd == 1 && isset($obj->request->files->progressive[1])){
       $url_hd = $obj->request->files->progressive[1]->url;
       $height = $obj->request->files->progressive[1]->height;
