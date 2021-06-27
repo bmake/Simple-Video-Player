@@ -100,7 +100,7 @@ function getValuesFromVimeo($obj){
     // Deprecated
     // $url = $obj->request->files->h264->sd->url;
 	usort($obj->request->files->progressive, function($a, $b) { 
-	    return $a->profile > $b->profile ? -1 : 1; //Compare the scores
+	    return $a->profile > $b->profile ? -1 : 1;
 	});
  
  	//$arrProgressiveLength = count($obj->request->files->progressive);
